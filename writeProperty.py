@@ -8,11 +8,11 @@ from bacpypes3.primitivedata import Real
 from bacpypes3.constructeddata import Any
 
 
-DEVICE_IP = "192.168.1.43"
+DEVICE_IP = "192.168.1.97"
 LOCAL_NIC = "192.168.1.100"
-OBJ = ("analogOutput", 2) 
+OBJ = ("analogOutput", 1) 
 PROP = "presentValue" 
-VALUE = 75.5
+VALUE = 95
 
 
 

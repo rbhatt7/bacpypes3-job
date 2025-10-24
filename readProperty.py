@@ -11,8 +11,8 @@ logging.basicConfig(level=logging.INFO)
 
 # configure here
 LOCAL_NIC = "192.168.1.100/24"
-DEVICE_IP = "192.168.1.43"
-OBJ = ("analogInput", 1)
+DEVICE_IP = "192.168.1.97"
+OBJ = ("analogOutput", 1)
 PROP = "presentValue"
 TIMEOUT = 5
 
